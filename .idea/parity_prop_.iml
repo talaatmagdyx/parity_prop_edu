@@ -11,5 +11,6 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" scope="PROVIDED" name="minitest (v5.16.3, RVM: ruby-3.0.3 [global]) [gem]" level="application" />
   </component>
 </module>
